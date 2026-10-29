@@ -1,0 +1,47 @@
+{
+  "n": 200,
+  "k": 5,
+  "silhouette": 0.578,
+  "profiles": [
+    {
+      "cluster": 1,
+      "label": "Standard",
+      "customers": 63,
+      "avg_age": 33.1,
+      "avg_income": 55.7,
+      "avg_spending": 51.7
+    },
+    {
+      "cluster": 2,
+      "label": "Careful",
+      "customers": 38,
+      "avg_age": 33.4,
+      "avg_income": 24.9,
+      "avg_spending": 19.1
+    },
+    {
+      "cluster": 3,
+      "label": "Target",
+      "customers": 31,
+      "avg_age": 36.7,
+      "avg_income": 86.4,
+      "avg_spending": 78.5
+    },
+    {
+      "cluster": 4,
+      "label": "Careless",
+      "customers": 32,
+      "avg_age": 39.1,
+      "avg_income": 25.2,
+      "avg_spending": 75.4
+    },
+    {
+      "cluster": 5,
+      "label": "Sensible",
+      "customers": 36,
+      "avg_age": 34.6,
+      "avg_income": 83.5,
+      "avg_spending": 16.8
+    }
+  ]
+}
